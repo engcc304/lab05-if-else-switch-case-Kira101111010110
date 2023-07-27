@@ -58,7 +58,7 @@ int main() {
         else 
             printf("F !") ;
     } else {
-        printf("please enter a number only.") ;
+        printf("please enter number only.") ;
     }
     return 0 ;
 } //end main function
