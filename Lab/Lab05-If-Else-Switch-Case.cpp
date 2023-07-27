@@ -40,7 +40,7 @@ int main() {
     //--| YOUR CODE HERE
     int score ;
     printf( "Enter scrore : " ) ;
-    scanf( "%d" ,&score ) ;
+    scanf( "%d", &score ) ;
 
     if( score >= 80 ) 
         printf( "A" ) ;
